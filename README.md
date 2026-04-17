@@ -1,5 +1,3 @@
-🛒 Get the Full Source Code here: (https://bellywave34.gumroad.com/l/cgtdng)
-
 # 🚀 PremiumApp - Modern Landing Page Template v1.0
 
 [![Framework](https://img.shields.io/badge/Framework-Next.js%2015-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -12,7 +10,9 @@ Template landing page premium yang dirancang untuk konversi tinggi, performa kil
 ---
 
 ## 📸 Preview
-> **Live Demo:** (https://bellywave34.gumroad.com/l/cgtdng)]
+> **Live Demo:** [Click Here to See Preview](https://my-premium-template.vercel.app)
+>
+> 🛒 **Get the Full Source Code:** [Buy on Gumroad](https://bellywave34.gumroad.com/l/cgtdng)
 
 ## ✨ Fitur Unggulan
 
