@@ -1,4 +1,4 @@
-🛒 Get the Full Source Code here: [Link Gumroad Kamu]
+🛒 Get the Full Source Code here: (https://bellywave34.gumroad.com/l/cgtdng)
 
 # 🚀 PremiumApp - Modern Landing Page Template v1.0
 
