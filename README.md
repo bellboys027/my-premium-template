@@ -1,3 +1,5 @@
+🛒 Get the Full Source Code here: [Link Gumroad Kamu]
+
 # 🚀 PremiumApp - Modern Landing Page Template v1.0
 
 [![Framework](https://img.shields.io/badge/Framework-Next.js%2015-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -10,7 +12,7 @@ Template landing page premium yang dirancang untuk konversi tinggi, performa kil
 ---
 
 ## 📸 Preview
-> **Live Demo:** [TEMPEL_LINK_VERCEL_KAMU_DISINI]
+> **Live Demo:** (https://bellywave34.gumroad.com/l/cgtdng)]
 
 ## ✨ Fitur Unggulan
 
